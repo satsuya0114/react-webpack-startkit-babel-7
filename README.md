@@ -1,8 +1,6 @@
 # react-webpack-start-kit
 
 ```
-git clone https://github.com/satsuya0114/react-webpack-start-kit.git
-cd react-webpack-start-kit
 npm install
 npm start 
 ```
