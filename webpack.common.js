@@ -88,10 +88,6 @@ module.exports = {
       '.js',
       '.jsx'
     ],
-    modules: [
-      path.resolve(__dirname, 'src/'),
-      path.resolve(__dirname, 'node_modules/'),
-    ]
   },
   optimization: { // https://webpack.js.org/configuration/optimization/#optimization-minimizer
     minimizer: [ // Allows you to override the default minimizer by providing a different one or more customized UglifyjsWebpackPlugin instances.
